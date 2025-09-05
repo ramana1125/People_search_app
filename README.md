@@ -70,7 +70,7 @@ It combines:
 
 ## ▶️ Usage
 
-### 🏃 Run Commands
+###  Run Commands
 
 To launch the **Streamlit UI**:
 
