@@ -12,7 +12,7 @@ if not GOOGLE_API_KEY:
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Use a working Gemini model
-MODEL_NAME = "models/gemini-2.5-pro"  # stable text generation model
+MODEL_NAME = "models/gemini-2.5-flash"  # stable text generation model
 model = genai.GenerativeModel(MODEL_NAME)
 
 def generate_feedback(query, profile):
