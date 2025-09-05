@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Alice Johnson",
+    "location": "NYC",
+    "interests": "AI, Physics, Tennis",
+    "bio": "AI researcher in NYC who loves tennis."
+  },
+  {
+    "name": "Bob Smith",
+    "location": "NYC",
+    "interests": "AI, Machine Learning, Chess",
+    "bio": "Data scientist with strong interest in AI and community events."
+  },
+  {
+    "name": "Charlie Lee",
+    "location": "Boston",
+    "interests": "Biology, Tennis, Hiking",
+    "bio": "Biology student passionate about sports."
+  },
+  {
+    "name": "David Chen",
+    "location": "San Francisco",
+    "interests": "Sustainable Energy, Rock Climbing, Photography",
+    "bio": "Environmental engineer focused on green technology and outdoor activities."
+  },
+  {
+    "name": "Eve Davis",
+    "location": "Austin",
+    "interests": "Data Science, Sci-Fi, Video Games",
+    "bio": "Aspiring data scientist and an avid reader of classic sci-fi novels."
+  },
+  {
+    "name": "Frank White",
+    "location": "Chicago",
+    "interests": "Financial Modeling, Basketball, Jazz Music",
+    "bio": "Financial analyst and amateur basketball player."
+  },
+  {
+    "name": "Grace Kim",
+    "location": "Seattle",
+    "interests": "Graphic Design, Hiking, Coffee Roasting",
+    "bio": "Graphic designer with a passion for the outdoors and artisan coffee."
+  },
+  {
+    "name": "Henry Wilson",
+    "location": "London",
+    "interests": "History, Writing, Film Criticism",
+    "bio": "Historian who loves writing about ancient civilizations and watching indie films."
+  },
+  {
+    "name": "Ivy Rodriguez",
+    "location": "Los Angeles",
+    "interests": "Screenwriting, Yoga, Vegan Cooking",
+    "bio": "Screenwriter working on a new script, also a yoga instructor and home cook."
+  },
+  {
+    "name": "Jack Evans",
+    "location": "Sydney",
+    "interests": "Surfing, Marine Biology, Environmentalism",
+    "bio": "Marine biologist and conservationist who spends his free time surfing the coast."
+  },
+  {
+    "name": "Karen Lopez",
+    "location": "NYC",
+    "interests": "AI, Urban Farming, Community Gardening",
+    "bio": "AI ethics researcher who believes technology can help build sustainable communities."
+  },
+  {
+    "name": "Leo Martinez",
+    "location": "Paris",
+    "interests": "Art History, Painting, Classical Music",
+    "bio": "Art history student at the Sorbonne, with a deep appreciation for the impressionists."
+  },
+  {
+    "name": "Mia Clark",
+    "location": "Tokyo",
+    "interests": "Robotics, Anime, Japanese Cuisine",
+    "bio": "Robotics engineer living in Tokyo, exploring the local food scene and anime culture."
+  },
+  {
+    "name": "Noah Green",
+    "location": "Berlin",
+    "interests": "Cybersecurity, Electronic Music, Cycling",
+    "bio": "Cybersecurity expert and DJ, navigating the music and tech scenes of Berlin."
+  },
+  {
+    "name": "Olivia Hall",
+    "location": "Toronto",
+    "interests": "Molecular Biology, Running, Puzzles",
+    "bio": "Molecular biologist training for her next marathon."
+  },
+  {
+    "name": "Peter King",
+    "location": "NYC",
+    "interests": "Venture Capital, Fintech, Skiing",
+    "bio": "Venture capitalist specializing in financial technology and a passionate skier."
+  },
+  {
+    "name": "Quinn Miller",
+    "location": "NYC",
+    "interests": "Data Analytics, AI, Reading",
+    "bio": "Data analyst who enjoys solving complex problems and exploring the world through books."
+  },
+  {
+    "name": "Rachel Scott",
+    "location": "London",
+    "interests": "Fashion Design, Travel, Social Media",
+    "bio": "Fashion designer and digital content creator documenting her travels."
+  },
+  {
+    "name": "Sam Taylor",
+    "location": "San Francisco",
+    "interests": "Web Development, Hiking, Cooking",
+    "bio": "Full-stack web developer who loves hiking in the Bay Area and cooking new recipes."
+  },
+  {
+    "name": "Tina Adams",
+    "location": "NYC",
+    "interests": "Education, Urban Planning, Community Activism",
+    "bio": "Urban planner and community activist focused on creating inclusive public spaces."
+  }
+]
