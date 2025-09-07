@@ -2,7 +2,7 @@ import streamlit as st
 from app.rag_pipeline import run_search
 
 st.set_page_config(page_title="🔍 People Search", layout="wide")
-st.title("🔍 People Search App")
+st.title("👥 ProfileFinder 🔍")
 
 query = st.text_input("Enter your search query:", "Find people in NYC interested in AI and tennis")
 top_k = st.slider("Number of results", 1, 10, 3)
